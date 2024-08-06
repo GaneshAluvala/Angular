@@ -1,1 +1,30 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: black;
+}
+.upper {
+    margin-top: 5PX;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color:rgb(103, 94, 94);
+   color: #33ffff;
+
+}
+.menu {
+   display: flex;
+   gap: 20px;
+}
+
+.name {
+   display: flex;
+   justify-content: flex-start;
+   
+   margin-left: 35%;
+   font-size:xx-large;
+  color: yellow;   
+}
+
+
